@@ -1,0 +1,55 @@
+body {
+  min-height: 3000px;
+  font-family: "Acme", sans-serif;
+}
+
+.nav-item {
+  font-size: 20px;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-image: url(langit.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+/* slider */
+.carousel-item {
+  size: 600px;
+  align-items: center;
+}
+
+.carousel-item img {
+  margin-top: -100px;
+}
+
+.carousel-caption {
+  text-align: center;
+}
+#Gallery {
+  background-color: #bdeaca;
+}
+
+section {
+  padding-top: 8rem;
+}
+
+.ig {
+  font-size: 100px;
+}
+
+.fb {
+  font-size: 100px;
+}
+
+.github {
+  font-size: 100px;
+}
+
+.card-text {
+  justify-content: center;
+  text-align: center;
+  font-weight: 300;
+  font-weight: large;
+}
